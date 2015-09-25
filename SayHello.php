@@ -9,3 +9,8 @@ class SayHello
         return 'Hello World, Composer!';
     }
 }
+git init 
+git add . 
+git commit -m "First commit" 
+git remote add origin git@github.com:username/helloworld.git 
+git push origin master
