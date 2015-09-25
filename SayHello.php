@@ -12,5 +12,5 @@ class SayHello
 git init 
 git add . 
 git commit -m "First commit" 
-git remote add origin git@github.com:username/helloworld.git 
+git remote add origin git@github.com:kbaylan/helloworld.git 
 git push origin master
